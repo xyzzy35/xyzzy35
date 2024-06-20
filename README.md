@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xyzzy35
+- 👋 Hi, I’m Amrit
 - 👀 I’m interested in *nix systems and how operating systems work.
 - 🌱 I’m currently learning bash and assembly.
 - You can contact me on amritkumarmeena01@gmail.com
